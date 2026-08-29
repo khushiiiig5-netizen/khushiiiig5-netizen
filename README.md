@@ -85,7 +85,7 @@ I am always interested in learning, collaborating, and exploring opportunities i
 
 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/khushi-gupta-912ba2334/)
 
-📄 **Resume:** [View my Resume](./Resume.pdf)
+📄 **Resume:** [View my Resume](./Resume.png)
 
 🐙 **GitHub:** [View my GitHub Profile](https://github.com/khushiiiig5-netizen)
 
